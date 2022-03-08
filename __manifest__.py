@@ -6,6 +6,7 @@
     "category" : "Email",
     'summary': 'App for send Email to customer with CC and BCC',
     "description": """
+
                 """,
     "license" : "OPL-1",
     "depends" : ['mail', 'account'],
@@ -18,10 +19,7 @@
         'wizard/account_invoice_send_views.xml',
          ],
     "auto_install": False,
-    "price": 15,
-    "currency": 'EUR',
     "installable": True,
-    "live_test_url":'https://youtu.be/mdTlVXc0FOg',
     "images":["static/description/main_screenshot.png"],
 }
 # vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:
